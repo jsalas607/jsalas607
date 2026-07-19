@@ -1,17 +1,15 @@
-<h1 align="center">Hi, I'm John Salas 👋</h1>
-<h3 align="center">Full Stack Developer · Bogotá, Colombia 🇨🇴</h3>
-
 <p align="center">
-  I build web and mobile applications end to end — from the API and database to the UI.
+  <img src="./banner.svg" width="100%" alt="John Salas — Full Stack Developer" />
 </p>
 
-<p align="center">
+## Hey, I'm John! 👋
+
+<p>
   <a href="https://johnsalas.online"><img src="https://img.shields.io/badge/Portfolio-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/jsalasparra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jsalasparra607@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/jsalas607"><img src="https://img.shields.io/github/followers/jsalas607?label=Follow&style=social" alt="Follow" /></a>
 </p>
-
----
 
 ### 🚀 About me
 
@@ -19,8 +17,6 @@
 - ⚡ I enjoy turning real problems into clean, well-crafted software.
 - 🌱 Currently leveling up: **advanced TypeScript**, testing (Vitest / Playwright), architecture & patterns, and **Docker in production**.
 - 💬 Ask me about **React, Next.js, FastAPI or Flutter**.
-
----
 
 ### 🛠️ Tech Stack
 
@@ -54,12 +50,11 @@
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
 
 ### 📌 Featured Projects
 
@@ -77,15 +72,15 @@ Cross-platform party-game app of dares, with difficulty levels and region-locali
 
 > 👉 See all of it, live, on my **[portfolio](https://johnsalas.online)**.
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jsalas607&show_icons=true&hide_border=true&count_private=true" alt="John's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsalas607&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jsalas607&show_icons=true&hide_border=true&count_private=true&theme=dark&title_color=22c55e&icon_color=22c55e" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=jsalas607&hide_border=true&theme=dark&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="GitHub streak" />
 </p>
 
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsalas607&layout=compact&hide_border=true&theme=dark&title_color=22c55e&langs_count=8" alt="Top languages" />
+</p>
 
 <p align="center"><i>Let's build something together 🚀</i></p>
