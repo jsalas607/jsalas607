@@ -77,9 +77,3 @@ Cross-platform party-game app of dares, with difficulty levels and region-locali
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=jsalas607&hide_border=true&theme=dark&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=22c55e&dates=8b949e" alt="GitHub streak stats" />
 </p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsalas607&layout=compact&hide_border=true&theme=dark&title_color=22c55e&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center"><i>Let's build something together 🚀</i></p>
