@@ -1,0 +1,28 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="John Salas — Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a0a0a"/>
+      <stop offset="1" stop-color="#0c150f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 150) rotate(90) scale(230)">
+      <stop stop-color="#22c55e" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <circle cx="1000" cy="150" r="200" fill="url(#glow)"/>
+  <circle cx="1080" cy="150" r="150" stroke="#22c55e" stroke-opacity="0.18" stroke-width="2"/>
+  <circle cx="1080" cy="150" r="104" stroke="#22c55e" stroke-opacity="0.28" stroke-width="2"/>
+  <circle cx="1080" cy="150" r="58" fill="#22c55e" fill-opacity="0.12" stroke="#22c55e" stroke-opacity="0.55" stroke-width="2"/>
+  <text x="1080" y="151" font-family="'Courier New', ui-monospace, monospace" font-size="34" font-weight="700" fill="#22c55e" text-anchor="middle" dominant-baseline="central">&lt;/&gt;</text>
+  <g fill="#3a3a3a">
+    <circle cx="1096" cy="42" r="4"/><circle cx="1112" cy="42" r="4"/><circle cx="1128" cy="42" r="4"/><circle cx="1144" cy="42" r="4"/><circle cx="1160" cy="42" r="4"/>
+  </g>
+  <text x="1160" y="80" font-family="'Courier New', ui-monospace, monospace" font-size="17" fill="#22c55e" text-anchor="end">johnsalas.online</text>
+  <rect x="70" y="96" width="6" height="112" rx="3" fill="#22c55e"/>
+  <text x="96" y="104" font-family="'Courier New', ui-monospace, monospace" font-size="18" letter-spacing="7" fill="#22c55e">HI, I'M</text>
+  <text x="92" y="176" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="78" font-weight="800" fill="#ffffff">John Salas</text>
+  <text x="96" y="224" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="35" font-weight="600" fill="#e5e5e5"><tspan fill="#22c55e" font-weight="700">Full Stack</tspan> Developer</text>
+  <rect x="96" y="236" width="176" height="4" rx="2" fill="#22c55e"/>
+  <text x="96" y="270" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="17" fill="#8a8a8a">I build web &amp; mobile products end to end.</text>
+</svg>
